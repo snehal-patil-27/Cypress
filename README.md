@@ -32,5 +32,5 @@ Open the Cypress Test Runner >> npx cypress open
 
 2. **Run tests**
 - Click E2E Testing on cypress dashboard
-- Choose a BrChoose a Browser and click Start e2e testing
+- Choose a Browser and click Start e2e testing
 - click on feature file to start the tests
